@@ -1,4 +1,4 @@
-# Linear regression with movie ratings dataset
+# Simple linear regression with movie ratings dataset
 ### Table of Contents
 * [Introduction](#intro)
 * [Structure of dataset](#struct)

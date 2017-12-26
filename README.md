@@ -1,8 +1,8 @@
 #Linear regression with movie ratings dataset
-** Table of Contents
-** [Introduction](#intro)
-** [Structure of dataset](#struct)
-** [Goal of Analysis](#goal)
+## Table of Contents
+* [Introduction](#intro)
+* [Structure of dataset](#struct)
+* [Goal of Analysis](#goal)
 
 ## <a name="intro"></a>Introduction
 The dataset contains information on how major movie review services rated movies. The data originally came from [FiveThirtyEight](https://fivethirtyeight.com/features/fandango-movies-ratings/). Each row represents a single movie. Each column contains information about how the online moview review services RottenTomatoes, Metacritic, IMDB, and Fandango rated the movie. The dataset was put together to help detect bias in the movie review sites. Each of these sites has 2 types of score -- User scores, which aggregate user reviews, and Critic score, which aggregate professional critical reviews of the movie. Each service puts their ratings on a different scale:
